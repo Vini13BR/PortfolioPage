@@ -1,5 +1,5 @@
 # PORTFOLIOPAGE
-This project is created to challenge my skill.
-I use html, css, sass, node.js, gulp, git and bootstrap.
+This project was created to challenge my skills.
+I'm using HTML, CSS, Sass, Node.js, Gulp, Git, and Bootstrap.
 
-the page porpuse is to be a portfolio
+The page's purpose is to be a portfolio.
